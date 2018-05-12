@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/393
     wikipedia: http://en.wikipedia.org/wiki/Isabella_Bird
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38828#Journeys-in-Persia-and-Kurdistan-Volume-II--of-2-to-the-Nestorian-Rayahs
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2012-02-11'
 gutenberg_type: Text
